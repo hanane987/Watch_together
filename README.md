@@ -44,3 +44,17 @@ Start the frontend:
 
 
 npm run start:dev
+
+🛠️ Tech Stack
+
+    Backend:
+        🧑‍💻 NestJS
+        ⚡ WebSockets (for real-time communication)
+        📚 TypeORM (for database management)
+
+    Frontend:
+        ⚛️ React (UI Framework)
+        🔵 Redux (State Management)
+        🎨 Material UI (Component Library)
+
+
