@@ -58,3 +58,21 @@ npm run start:dev
         🎨 Material UI (Component Library)
 
 
+🧑‍💻 API Endpoints
+🎬 Video Streams
+
+    GET /videos: List all available videos.
+    POST /videos/upload: Upload a new video to the platform.
+    GET /videos/:id: View a specific video.
+
+🎧 Playlists
+
+    GET /playlists: Retrieve all playlists.
+    POST /playlists: Create a new playlist.
+    PUT /playlists/:id: Update a playlist.
+
+🖥️ Rooms
+
+    GET /rooms: List all active rooms.
+    POST /rooms: Create a new room.
+    GET /rooms/:id: Join a specific room.
