@@ -9,3 +9,10 @@ Welcome to the Video Streaming App, a comprehensive platform where users can wat
     🖥️ Real-Time Rooms: Interact with other users in real-time within shared rooms.
     🔔 Notifications: Stay updated with real-time notifications about activities and updates.
     🔐 Authentication: Secure user authentication to manage profiles and personal data.
+
+⚙️ Installation Guide
+🛠️ Backend Setup
+
+    Clone the repository:
+
+git clone https://github.com/hanane987/Watch_together.git
