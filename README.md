@@ -16,3 +16,7 @@ Welcome to the Video Streaming App, a comprehensive platform where users can wat
     Clone the repository:
 
 git clone https://github.com/hanane987/Watch_together.git
+
+Navigate to the backend folder:
+
+cd backend
