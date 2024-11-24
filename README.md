@@ -20,3 +20,11 @@ git clone https://github.com/hanane987/Watch_together.git
 Navigate to the backend folder:
 
 cd backend
+
+Install dependencies:
+
+npm install
+
+Start the server:
+
+npm run start:dev
