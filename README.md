@@ -25,6 +25,22 @@ Install dependencies:
 
 npm install
 
-Start the server:
+
+
+💻 Frontend Setup
+
+    Navigate to the frontend folder:
+
+cd frontend
+
+Install dependencies:
+
+npm install
+
+Start the frontend:
+
+    npm start
+
+
 
 npm run start:dev
