@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import PlaylistForm from '../components/PlaylistForm';
-
+import { fetchPlaylists } from '../redux/slices/playlistSlice';
 
 const PlaylistPage = () => {
   const dispatch = useDispatch();
